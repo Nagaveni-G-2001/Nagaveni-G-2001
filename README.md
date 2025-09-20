@@ -24,8 +24,10 @@ I am a **self-motivated team player** with strong skills in **Finance and Data A
 
 ## 📊 Projects
 
-* **Excel-Based Sales Analytics Dashboard** – Analyzing sales trends across countries and e-commerce platforms.
-* **Excel-Based Finance Analytics Dashboard** – Analyzing financial performance, profitability, and KPIs.
+* [Sales Analytics Dashboard](https://github.com/Nagaveni-G-2001/Excel_Sales_Project/blob/main/REE.md#-excel-based-sales-analytics-dashboard--hardwares)
+– Analyzing sales trends across countries and e-commerce platforms.
+* [Finance Analytics Dashboard](https://github.com/<your-username>/<repo-name>/blob/main/workbook/Finance_Analytics_Dashboard.xlsx?raw=true)
+ – Analyzing financial performance, profitability, and KPIs.
 
 *(More projects coming soon…)*
 
