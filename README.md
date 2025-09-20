@@ -24,27 +24,27 @@ I am a **self-motivated team player** with strong skills in **Finance and Data A
 
 ## 📊 Projects
 
-* [Sales Analytics Dashboard](https://github.com/Nagaveni-G-2001/Excel_Sales_Project/blob/main/REE.md#-excel-based-sales-analytics-dashboard--hardwares)
+* **Excel-Based Sales Analytics Dashboard**
 – Analyzing sales trends across countries and e-commerce platforms.
 
-* [ Finance Analytics Dashboard](https://github.com/Nagaveni-G-2001/Excel_Finance_Project/blob/main/workbook/Finance_Analytics_Dashboard.xlsx?raw=true)
+* **Excel-Based Finance Analytics Dashboard**
 – Analyzing financial performance, profitability, and KPIs.
 
-*(More projects coming soon…)*
+* **📈More projects coming soon…**
 
 ---
 
 ## 🌱 Learning & Interests
 
 * Exploring **advanced analytics techniques** and **data visualization**.
-* Learning **Power BI and Python for data analytics**.
+* Learning **Power BI for data analytics**.
 * Passionate about **finance, strategy, and business insights**.
 
 ---
 
 ## 📫 Contact Me
 
-* **Email:** [nagavrnig075@gmail.com](mailto:nagavrnig075@gmail.com)
+* **Email:** [nagavenig075@gmail.com](mailto:nagavrnig075@gmail.com)
 * **LinkedIn:** (https://www.linkedin.com/in/nagaveni2001/)
 
 
